@@ -26,6 +26,7 @@
         app:layout_constraintStart_toStartOf="@+id/guideline2"
         app:startIconDrawable="@drawable/usericon"
         tools:layout_editor_absoluteY="140dp" />
+
     <EditText
         android:id="@+id/user"
         android:layout_width="250dp"
@@ -33,6 +34,7 @@
         android:background="#80FFFFFF"
         android:textColor="@color/marron"
         android:hint="Username"
+        android:drawableStart="@drawable/personita_1"
         android:inputType="textPersonName"
         app:layout_constraintTop_toBottomOf="@id/estrellas"
         app:layout_constraintStart_toStartOf="parent"
@@ -44,7 +46,7 @@
         android:layout_width="250dp"
         android:layout_height="50dp"
         android:background="#80FFFFFF"
-
+        android:drawableStart="@drawable/outline_build_24"
         android:layout_marginTop="24dp"
         android:hint="Password"
         android:inputType="textPersonName"
@@ -61,7 +63,7 @@
         android:layout_marginTop="20dp"
         android:backgroundTint="@color/marron"
         android:text="LOGIN"
-        android:textColor="@color/white"
+        android:textColor="@color/azulVer"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
