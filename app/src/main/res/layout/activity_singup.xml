@@ -57,47 +57,48 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/user" />
 
-    <Button
-        android:id="@+id/login"
-        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+    <EditText
+        android:id="@+id/email"
         android:layout_width="250dp"
-        android:layout_height="56dp"
-        android:layout_marginTop="20dp"
-        android:backgroundTint="@color/marron"
-        android:text="LOGIN"
-        android:textColor="@color/azulVer"
+        android:layout_height="50dp"
+        android:background="#80FFFFFF"
+        android:hint="Email"
+        android:inputType="textEmailAddress"
+        android:maxLines="1"
+        android:drawableStart="@drawable/word"
+        android:layout_marginTop="24dp"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintHorizontal_bias="0.496"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/password" />
+        app:layout_constraintTop_toBottomOf="@id/password"/>
 
     <Button
         android:id="@+id/signup"
         style="@style/Widget.MaterialComponents.Button.OutlinedButton"
         android:layout_width="250dp"
         android:layout_height="56dp"
-        android:layout_marginTop="4dp"
+        android:layout_marginTop="20dp"
+        android:backgroundTint="@color/marron"
         android:text="SIGN UP"
+        android:textColor="@color/azulVer"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/email" />
+
+    <Button
+        android:id="@+id/cancel"
+        style="@style/Widget.MaterialComponents.Button.OutlinedButton"
+        android:layout_width="250dp"
+        android:layout_height="56dp"
+        android:layout_marginTop="4dp"
+        android:text="CANCEL"
         android:textColor="@color/marron"
         android:backgroundTint="@android:color/transparent"
         app:strokeColor="@color/marron"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/login" />
-    <Button
-        android:id="@+id/button2"
-        android:layout_width="0dp"
-        android:layout_height="wrap_content"
-        android:text="register"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        android:layout_marginTop="20dp"
-        android:backgroundTint="@color/marron"
-        android:textColor="@color/celeste"
-        app:layout_constraintHorizontal_bias="0.497"
-
-        />
+        app:layout_constraintTop_toBottomOf="@id/signup" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
