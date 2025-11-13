@@ -1,4 +1,5 @@
-**Guía de la App NiceStart**
+**Guía de NiceStart**
+
 NiceStart es una aplicación móvil desarrollada en Android Studio, utilizando Material Components y ConstraintLayout.
 Su objetivo es ofrecer una interfaz moderna y atractiva, incluyendo pantallas de bienvenida (splash), login y registro, brindando al usuario una experiencia visual coherente y profesional.
 
@@ -31,4 +32,5 @@ App Icon
 
 Funcionalidad:
 - Mantiene coherencia visual con los colores y el estilo general de la interfaz, asegurando una experiencia uniforme y agradable para el usuario.
+
 
