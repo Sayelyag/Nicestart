@@ -5,7 +5,7 @@ Su objetivo es ofrecer una interfaz moderna y atractiva, incluyendo pantallas de
 
 Descripción de los layouts e imágenes
 1. Pantalla Principal
-<img width="311" height="553" alt="image" src="https://github.com/user-attachments/assets/ac3f15ce-adec-4416-a261-b14413a802c8" />
+<img width="256" height="573" alt="image" src="https://github.com/user-attachments/assets/1788d5fb-f47f-47ad-a315-b28460797ee3" />
 
 Funcionalidad:
 - Se muestra al iniciar la aplicación.
@@ -19,7 +19,7 @@ Funcionalidad:
 - Contiene los campos Username y Password, cada uno con un ícono al inicio para mejorar la experiencia visual.
 - Incluye un botón LOGIN que valida las credenciales y un botón SIGN UP que lleva a la pantalla de registro.
 - Todos los elementos están alineados y centrados usando ConstraintLayout y Guidelines.
-2. Pantalla de Registro (Signup)
+3. Pantalla de Registro (Signup)
 <img width="391" height="697" alt="image" src="https://github.com/user-attachments/assets/79e13e41-0a61-40e3-8d73-1359fff6c3f1" />
 
 Funcionalidad:
@@ -32,6 +32,13 @@ App Icon
 
 Funcionalidad:
 - Mantiene coherencia visual con los colores y el estilo general de la interfaz, asegurando una experiencia uniforme y agradable para el usuario.
+
+5.Perfil
+<img width="308" height="545" alt="image" src="https://github.com/user-attachments/assets/d11ef3f0-b1e3-473b-ad01-d92b9beee8b3" />
+
+Funcionalidad:
+
+
 
 
 
