@@ -28,9 +28,10 @@ Funcionalidad:
 - Incluye un botón SIGN UP que guarda la información del usuario y lo dirige de vuelta al login o a la pantalla principal según el flujo de la app.
 4. Icono de la App
 App Icon
-<img width="205" height="208" alt="image" src="https://github.com/user-attachments/assets/8f8e0fc4-7a9f-4330-9afb-c0a13c3bfb18" />
+<img width="237" height="141" alt="image" src="https://github.com/user-attachments/assets/1aa6f47e-fb80-46c4-aa86-e8792f8aef85" />
 
 Funcionalidad:
 - Mantiene coherencia visual con los colores y el estilo general de la interfaz, asegurando una experiencia uniforme y agradable para el usuario.
+
 
 
