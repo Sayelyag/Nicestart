@@ -1,47 +1,42 @@
-# Guía de la App NiceStart
+**Guía de NiceStart**
 
-NiceStart es una aplicación móvil creada con **Android Studio**, usando **Material Components** y **ConstraintLayout**.  
-Su objetivo es mostrar una interfaz moderna de **login y registro**, con pantallas de bienvenida y presentación (splash), y un diseño visual atractivo.
+NiceStart es una aplicación móvil desarrollada en Android Studio, utilizando Material Components y ConstraintLayout.
+Su objetivo es ofrecer una interfaz moderna y atractiva, incluyendo pantallas de bienvenida (splash), login y registro, brindando al usuario una experiencia visual coherente y profesional.
 
----
+Descripción de los layouts e imágenes
+1. Pantalla Principal
+<img width="256" height="573" alt="image" src="https://github.com/user-attachments/assets/1788d5fb-f47f-47ad-a315-b28460797ee3" />
 
-## Descripción de los layouts e imágenes
+Funcionalidad:
+- Se muestra al iniciar la aplicación.
+- Contiene el logotipo y el nombre de la app.
+- Está diseñada para ofrecer una primera impresión profesional mientras la aplicación se carga.
+2. Pantalla Login
+<img width="371" height="664" alt="image" src="https://github.com/user-attachments/assets/866f60fd-eb43-487f-845b-c9da76dac57a" />
 
-### 1. Pantalla Principal
-<img width="247" height="444" alt="image" src="https://github.com/user-attachments/assets/b4ec3b24-182c-4a15-a380-3e6aaea2e173" />
+Funcionalidad:
+- Permite al usuario ingresar su nombre de usuario y contraseña.
+- Contiene los campos Username y Password, cada uno con un ícono al inicio para mejorar la experiencia visual.
+- Incluye un botón LOGIN que valida las credenciales y un botón SIGN UP que lleva a la pantalla de registro.
+- Todos los elementos están alineados y centrados usando ConstraintLayout y Guidelines.
+3. Pantalla de Registro (Signup)
+<img width="391" height="697" alt="image" src="https://github.com/user-attachments/assets/79e13e41-0a61-40e3-8d73-1359fff6c3f1" />
 
-**Funcionalidad:**  
-- Se muestra al abrir la aplicación.  
-- Contiene el **logotipo** de la app y el nombre **NiceStart**.  
-- Diseñada para dar una primera impresión profesional mientras carga la app.
+Funcionalidad:
+- Permite al usuario crear una nueva cuenta ingresando nombre, correo electrónico y contraseña.
+- Los campos utilizan TextInputLayout y TextInputEditText para una interfaz limpia y fácil de usar.
+- Incluye un botón SIGN UP que guarda la información del usuario y lo dirige de vuelta al login o a la pantalla principal según el flujo de la app.
+4. Icono de la App
+App Icon
+<img width="237" height="141" alt="image" src="https://github.com/user-attachments/assets/1aa6f47e-fb80-46c4-aa86-e8792f8aef85" />
 
-### 2. Pantalla Login
-<img width="315" height="537" alt="image" src="https://github.com/user-attachments/assets/8b22edf0-92c7-4357-a93e-43791184ed77" />
+Funcionalidad:
+- Mantiene coherencia visual con los colores y el estilo general de la interfaz, asegurando una experiencia uniforme y agradable para el usuario.
 
-**Funcionalidad:**  
-- Permite al usuario ingresar su **nombre de usuario** y **contraseña**.  
-- Contiene los campos: `Username` y `Password` con íconos al inicio para mejorar la experiencia visual.  
-- Incluye un botón **LOGIN** que valida las credenciales y un botón **SIGN UP** para ir a la pantalla de registro.  
-- Todo está alineado y centrado usando `ConstraintLayout` y `Guidelines`.
+5.Perfil
+<img width="308" height="545" alt="image" src="https://github.com/user-attachments/assets/d11ef3f0-b1e3-473b-ad01-d92b9beee8b3" />
 
----
-
-### 2. Pantalla de Registro (Signup)
-<img width="305" height="533" alt="image" src="https://github.com/user-attachments/assets/c7bd0993-65fc-4a9e-8aab-f3073e97bc30" />
-
-**Funcionalidad:**  
-- Permite al usuario crear una nueva cuenta ingresando datos como nombre, correo y contraseña.  
-- Campos con `TextInputLayout` y `TextInputEditText` para una interfaz limpia y fácil de usar.  
-- Botón **SIGN UP** para guardar la información y volver al login o abrir la pantalla principal.  
-
----
-
-### 4. Icono de la App
-![App Icon](https://github.com/user-attachments/assets/70b39898-7126-468c-a760-3fec15458285)
-
-**Funcionalidad:**  
- - Mantiene coherencia visual con los colores y estilo de la interfaz.
----
-
-Este proyecto está bajo la licencia [Creative Commons BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-
+Funcionalidad:
+- Muestra la información básica del usuario dentro de la aplicación.
+- Incluye un avatar o imagen de perfil en la parte superior, acompañado del nombre del usuario.
+- Está diseñada utilizando ConstraintLayout y elementos de Material Design, manteniendo coherencia visual con el resto de pantallas.
