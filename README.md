@@ -3,16 +3,18 @@
 NiceStart es una aplicación móvil desarrollada en Android Studio, utilizando Material Components y ConstraintLayout.
 Su objetivo es ofrecer una interfaz moderna y atractiva, incluyendo pantallas de bienvenida (splash), login y registro, brindando al usuario una experiencia visual coherente y profesional.
 
-Descripción de los layouts e imágenes
+
 1. Pantalla Principal
-<img width="256" height="573" alt="image" src="https://github.com/user-attachments/assets/1788d5fb-f47f-47ad-a315-b28460797ee3" />
+<img width="258" height="569" alt="image" src="https://github.com/user-attachments/assets/6540df82-ea59-4030-8784-ae5550f9e805" />
+
 
 Funcionalidad:
 - Se muestra al iniciar la aplicación.
 - Contiene el logotipo y el nombre de la app.
 - Está diseñada para ofrecer una primera impresión profesional mientras la aplicación se carga.
 2. Pantalla Login
-<img width="371" height="664" alt="image" src="https://github.com/user-attachments/assets/866f60fd-eb43-487f-845b-c9da76dac57a" />
+<img width="234" height="416" alt="image" src="https://github.com/user-attachments/assets/58f2fc70-0683-4dd3-b10c-3b00bab3288b" />
+
 
 Funcionalidad:
 - Permite al usuario ingresar su nombre de usuario y contraseña.
@@ -20,7 +22,8 @@ Funcionalidad:
 - Incluye un botón LOGIN que valida las credenciales y un botón SIGN UP que lleva a la pantalla de registro.
 - Todos los elementos están alineados y centrados usando ConstraintLayout y Guidelines.
 3. Pantalla de Registro (Signup)
-<img width="391" height="697" alt="image" src="https://github.com/user-attachments/assets/79e13e41-0a61-40e3-8d73-1359fff6c3f1" />
+<img width="234" height="417" alt="image" src="https://github.com/user-attachments/assets/41cd1516-0bce-41fe-b8a7-0661c5c1d473" />
+
 
 Funcionalidad:
 - Permite al usuario crear una nueva cuenta ingresando nombre, correo electrónico y contraseña.
@@ -28,13 +31,17 @@ Funcionalidad:
 - Incluye un botón SIGN UP que guarda la información del usuario y lo dirige de vuelta al login o a la pantalla principal según el flujo de la app.
 4. Icono de la App
 App Icon
-<img width="237" height="141" alt="image" src="https://github.com/user-attachments/assets/1aa6f47e-fb80-46c4-aa86-e8792f8aef85" />
+<img width="252" height="69" alt="image" src="https://github.com/user-attachments/assets/bb6ea512-f723-4d12-b760-4b41e6b94dd2" />
+
 
 Funcionalidad:
 - Mantiene coherencia visual con los colores y el estilo general de la interfaz, asegurando una experiencia uniforme y agradable para el usuario.
 
 5.Perfil
-<img width="308" height="545" alt="image" src="https://github.com/user-attachments/assets/d11ef3f0-b1e3-473b-ad01-d92b9beee8b3" />
+
+<img width="216" height="382" alt="image" src="https://github.com/user-attachments/assets/a26b0856-0618-4089-87a2-a61349f70914" />
+
+
 
 Funcionalidad:
 - Muestra la información básica del usuario dentro de la aplicación.
