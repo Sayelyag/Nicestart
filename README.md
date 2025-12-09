@@ -80,4 +80,10 @@ Funcionalidad:
 ## 9. Animacion del logo
 ![movimiento_icon](https://github.com/user-attachments/assets/291a1c18-6d3e-4033-8432-41c4fc5888cf)
 
+## 10. Licencia
+Este proyecto está licenciado bajo **Creative Commons Atribución-CompartirIgual 4.0 Internacional**.
 
+[![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+Pequeño comentario hecho por Saif
