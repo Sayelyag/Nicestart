@@ -72,6 +72,7 @@ Funcionalidad:
 
 ## 8. Opciones
 <img width="316" height="178" alt="image" src="https://github.com/user-attachments/assets/e63f2919-053b-4b52-a5b4-ff782a2c5df5" />
+
 - Sign Out te lleva a la pantalla de Login
 - Cancelar quita el mensaje
 
