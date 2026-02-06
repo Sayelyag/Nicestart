@@ -30,7 +30,7 @@ NiceStart está diseñada para usuarios que buscan una experiencia sencilla e in
 | AcuaMar     | #41BFB3    | Fondos de tarjetas o botones destacados |
 | Turquesa    | #2A8C82    | Botones o detalles decorativos          |
 
-## Paleta de colores en odo oscuro
+## Paleta de colores en modo oscuro
 
 | Nombre       | Código Hex | Uso en la app                          |
 |-------------|------------|-----------------------------------------|
